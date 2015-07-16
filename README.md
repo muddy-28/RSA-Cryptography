@@ -1,7 +1,7 @@
-#PHP Source Code for Sitepoint Crypto Article 
+#PHP Source Code for Cryptography 
 
-This is the source code for the PHP cryptography article I wrote for SitePoint.
+This is the source code for the PHP cryptography 
 
 Enjoy!
 
-David E. Brumbaugh
+Adnan Shafique
